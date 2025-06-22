@@ -1,4 +1,4 @@
-## 🖥️ Configurando uma instância de Banco de Dados na Azure
+## 🛢️ Configurando uma instância de Banco de Dados na Azure
 
 O terceiro desafio de projeto proposto no bootcamp **Microsoft 50 Anos - Computação em Nuvem com Azure** foi a criação de uma instância de Banco de Dados utilizando a Microsoft Azure.
 
