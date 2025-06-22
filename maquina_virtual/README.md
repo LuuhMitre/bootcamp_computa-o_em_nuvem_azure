@@ -1,6 +1,6 @@
 ## 🖥️ Criando Máquinas Virtuais na Azure
 
-O segundo desafio de projeto proposto no bootcamp **Microsoft 50 Anos - Computação em Nuvem com Azure** foi a criação de uma máquina virtual utilizando o Microsoft Azure.
+O segundo desafio de projeto proposto no bootcamp **Microsoft 50 Anos - Computação em Nuvem com Azure** foi a criação de uma máquina virtual utilizando a Microsoft Azure.
 
 Este repositório tem como objetivo documentar o passo a passo desse processo, por meio de capturas de tela.
 
@@ -23,5 +23,5 @@ Este repositório tem como objetivo documentar o passo a passo desse processo, p
 - Nesta etapa, é possível conferir as configurações especificadas para a máquina virtual, além do custo por hora dos recursos alocados. Após revisar as informações, clique em **CRIAR**:  
   <img src="imagens/criar-vm-custo.jpg" alt="Resumo e custo" width="800"/>
 
-- A máquina virtual será criada e estará disponível na plataforma do Microsoft Azure:  
+- A máquina virtual será criada e estará disponível na plataforma da Microsoft Azure:  
   <img src="imagens/resumo-vm.jpg" alt="Resumo da VM criada" width="800"/>

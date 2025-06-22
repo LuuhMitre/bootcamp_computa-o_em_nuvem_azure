@@ -24,6 +24,7 @@ Este repositório tem como objetivo documentar o passo a passo desse processo, p
   <img src="imagens/sql-criar-db2.jpg" width="800"/>
 
 - Após o preenchimento das especificações do Banco de Dados, será apresentado um resumo de custos previstos. Para concluir a criação do Banco, clique em **REVISAR + CRIAR**:  
-  <img src="imagens/sql-revisar-criar.jpg" width="800"/>
+  <img src="imagens/sql-revisar-criar.jpg" width="600"/>
+
 - A instância do Banco de Dados será criada e estará disponível na plataforma da Microsoft Azure:  
   <img src="imagens/resumo-db-sql.jpg" width="800"/>
